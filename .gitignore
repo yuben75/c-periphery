@@ -5,3 +5,9 @@ obj/
 tests/*
 !tests/*.c
 !tests/*.h
+Makefile
+*.pro
+!QTemplate.pro
+*~
+out_*
+xxx.map
